@@ -1,4 +1,5 @@
 # Comp-442 Natural Language Processing Course Projects  
+## Pretrained [models](https://drive.google.com/open?id=1JFIbSjknzDBLDI-uSeu5XueFAj_-AxFe)
 ## Project 1 : Naive Bayes IMDB Sentiment Analysis  
 Naive Bayes binary sentiment analysis. Stopwords boost the accuracy by %20.
 ## Project 2 : A Neural Probabilistic Language Model 
